@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="KingAbdualaziz" size="920.000000 628.488342" />
+    <ImageTarget name="EieanZubaid" size="920.000000 776.479980" />
+    <ImageTarget name="HawaHijaz" size="920.000000 607.200012" />
+    <ImageTarget name="MedanSalh" size="920.000000 399.305542" />
+  </Tracking>
+</QCARConfig>

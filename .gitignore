@@ -73,3 +73,13 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+[Ll]ibrary/ 
+
+# ---------------------------------------------------------------------------
+# Vuforia Engine SDK package — 138 MB each, above GitHub's 100 MB file limit.
+# Not redistributed here. Download Vuforia Engine 11.4.4 from PTC and place
+# the .tgz in Packages/ before opening the project (see README.md).
+# ---------------------------------------------------------------------------
+*.tgz
+*.tgz.meta
+/[Pp]ackages/com.ptc.vuforia.engine/
