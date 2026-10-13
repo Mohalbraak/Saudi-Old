@@ -83,3 +83,17 @@ crashlytics-build.properties
 *.tgz
 *.tgz.meta
 /[Pp]ackages/com.ptc.vuforia.engine/
+
+# ---------------------------------------------------------------------------
+# The Unity project sits in a sub-folder, so the root-anchored rules above
+# (/[Tt]emp/, /[Ll]ogs/ ...) never reach it. These unanchored rules do.
+# ---------------------------------------------------------------------------
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+Packages/com.ptc.vuforia.engine/
